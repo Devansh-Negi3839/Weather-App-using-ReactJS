@@ -1,6 +1,6 @@
 # FireBase
 
-My GitHub project is now accessible online through Firebase at the link given below
+My GitHub project is now accessible online through Firebase via the given link.\
 https://weather-app-33eeb.web.app/
 
 # Getting Started with Create React App
