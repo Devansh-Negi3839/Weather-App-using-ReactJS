@@ -7,6 +7,9 @@ import { getWeather } from "../services/api";
 const Container = styled(Box)({
     background: '#445A6F',
     padding: 10,
+    "@media (max-width: 768px)": {
+        padding: 5,
+    },
 });
 
 const Input = styled(InputBase)({
