@@ -1,3 +1,8 @@
+# FireBase
+
+My GitHub project is now accessible online through Firebase via the given link.\
+https://weather-app-33eeb.web.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
